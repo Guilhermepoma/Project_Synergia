@@ -1,0 +1,14 @@
+começo de tudo:
+
+-versão do unity "6000.0.31f1"
+-instalar somente, a unity sem a documentação
+-todo dia abrir o GitHub desktop, e clonar o do jogo
+- após o uso é só comittar e dar um push
+
+como colocar um tileset:
+
+- colocar tileset no unity
+- depois colocar abrir o sprite editor, e cortar
+- após isso tem que criar um tileset na hierarquia 
+- ai sim esta funcionando (é pra estar pelo menos)
+
